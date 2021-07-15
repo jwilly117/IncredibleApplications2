@@ -1,0 +1,20 @@
+{
+  "name": "IncredibleApplications2",
+  "version": "1.0.0",
+  "description": "Second iteration of HR application, will use Node to setup a server, then build upon it from the first HR app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwilly117/IncredibleApplications2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwilly117/IncredibleApplications2/issues"
+  },
+  "homepage": "https://github.com/jwilly117/IncredibleApplications2#readme"
+}
