@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jwilly117/IncredibleApplications2/issues"
   },
-  "homepage": "https://github.com/jwilly117/IncredibleApplications2#readme"
+  "homepage": "https://github.com/jwilly117/IncredibleApplications2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
